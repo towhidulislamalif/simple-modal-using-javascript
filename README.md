@@ -4,6 +4,5 @@
 
 ## project links
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://github.com/towhidulislamalif/simple-modal-using-javascript)
+- [Netlify](https://simple-modal-app.netlify.app/)
